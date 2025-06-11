@@ -1,0 +1,6 @@
+@Account.Balance.API_HostAddress = http://localhost:5225
+
+POST {{Account.Balance.API_HostAddress}}/BankAccount/
+Accept: application/json
+
+###
